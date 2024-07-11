@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.karsoft.effectivemobile.app-mergeDebugResources-2:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\caches\\transforms-3\\f2780ff6eef1985a45bdfb17bc8614a1\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
