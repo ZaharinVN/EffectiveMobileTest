@@ -16,6 +16,5 @@ https://github.com/ZaharinVN/EffectiveMobileTest.git
     <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_3.png" width="250"> 
     <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_4.png" width="250"> 
     <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_5.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_6.png" width="250"> 
     <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screen_recording_1.gif" width="250">
 </p> 
