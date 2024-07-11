@@ -2,5 +2,4 @@ com.karsoft.effectivemobile.test.app-androidTest-0 D:\ANDROID.SAVE\EffectiveMobi
 com.karsoft.effectivemobile.test.app-mergeDebugAndroidTestResources-1 D:\ANDROID.SAVE\EffectiveMobileTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
 com.karsoft.effectivemobile.test.app-mergeDebugAndroidTestResources-2 D:\ANDROID.SAVE\EffectiveMobileTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
 com.karsoft.effectivemobile.test.app-merged_res-3 D:\ANDROID.SAVE\EffectiveMobileTest\app\build\intermediates\merged_res\debugAndroidTest
-com.karsoft.effectivemobile.test.app-core-1.5.0-4 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a0a1763108d0904bdf743dee965e8d86\transformed\core-1.5.0\res
-com.karsoft.effectivemobile.test.app-annotation-experimental-1.3.1-5 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d1b0c9158060b88c539dee9dfb31981b\transformed\annotation-experimental-1.3.1\res
+com.karsoft.effectivemobile.test.app-core-1.6.1-4 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8a347d3b4acc2ce63f651d7846f43868\transformed\core-1.6.1\res

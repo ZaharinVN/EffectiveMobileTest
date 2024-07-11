@@ -16,15 +16,15 @@ public final class AllTicketsAdapter extends androidx.recyclerview.widget.ListAd
         super(null);
     }
     
-    @java.lang.Override
-    @org.jetbrains.annotations.NotNull
-    public com.karsoft.effectivemobile.presenter.ui.alltickets.AllTicketsAdapter.TicketViewHolder onCreateViewHolder(@org.jetbrains.annotations.NotNull
+    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull()
+    public com.karsoft.effectivemobile.presenter.ui.alltickets.AllTicketsAdapter.TicketViewHolder onCreateViewHolder(@org.jetbrains.annotations.NotNull()
     android.view.ViewGroup parent, int viewType) {
         return null;
     }
     
-    @java.lang.Override
-    public void onBindViewHolder(@org.jetbrains.annotations.NotNull
+    @java.lang.Override()
+    public void onBindViewHolder(@org.jetbrains.annotations.NotNull()
     com.karsoft.effectivemobile.presenter.ui.alltickets.AllTicketsAdapter.TicketViewHolder holder, int position) {
     }
     
@@ -35,16 +35,16 @@ public final class AllTicketsAdapter extends androidx.recyclerview.widget.ListAd
             super();
         }
         
-        @java.lang.Override
-        public boolean areItemsTheSame(@org.jetbrains.annotations.NotNull
-        com.karsoft.effectivemobile.presenter.models.TicketUI oldItem, @org.jetbrains.annotations.NotNull
+        @java.lang.Override()
+        public boolean areItemsTheSame(@org.jetbrains.annotations.NotNull()
+        com.karsoft.effectivemobile.presenter.models.TicketUI oldItem, @org.jetbrains.annotations.NotNull()
         com.karsoft.effectivemobile.presenter.models.TicketUI newItem) {
             return false;
         }
         
-        @java.lang.Override
-        public boolean areContentsTheSame(@org.jetbrains.annotations.NotNull
-        com.karsoft.effectivemobile.presenter.models.TicketUI oldItem, @org.jetbrains.annotations.NotNull
+        @java.lang.Override()
+        public boolean areContentsTheSame(@org.jetbrains.annotations.NotNull()
+        com.karsoft.effectivemobile.presenter.models.TicketUI oldItem, @org.jetbrains.annotations.NotNull()
         com.karsoft.effectivemobile.presenter.models.TicketUI newItem) {
             return false;
         }
@@ -52,10 +52,10 @@ public final class AllTicketsAdapter extends androidx.recyclerview.widget.ListAd
     
     @kotlin.Metadata(mv = {1, 9, 0}, k = 1, xi = 48, d1 = {"\u0000\u0018\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\u0002\n\u0000\b\u0086\u0004\u0018\u00002\u00020\u0001B\r\u0012\u0006\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\u0002\u0010\u0004J\u0006\u0010\u0005\u001a\u00020\u0006R\u000e\u0010\u0002\u001a\u00020\u0003X\u0082\u0004\u00a2\u0006\u0002\n\u0000\u00a8\u0006\u0007"}, d2 = {"Lcom/karsoft/effectivemobile/presenter/ui/alltickets/AllTicketsAdapter$TicketViewHolder;", "Landroidx/recyclerview/widget/RecyclerView$ViewHolder;", "binding", "Lcom/karsoft/effectivemobile/databinding/ItemTicketBinding;", "(Lcom/karsoft/effectivemobile/presenter/ui/alltickets/AllTicketsAdapter;Lcom/karsoft/effectivemobile/databinding/ItemTicketBinding;)V", "bind", "", "app_debug"})
     public final class TicketViewHolder extends androidx.recyclerview.widget.RecyclerView.ViewHolder {
-        @org.jetbrains.annotations.NotNull
+        @org.jetbrains.annotations.NotNull()
         private final com.karsoft.effectivemobile.databinding.ItemTicketBinding binding = null;
         
-        public TicketViewHolder(@org.jetbrains.annotations.NotNull
+        public TicketViewHolder(@org.jetbrains.annotations.NotNull()
         com.karsoft.effectivemobile.databinding.ItemTicketBinding binding) {
             super(null);
         }

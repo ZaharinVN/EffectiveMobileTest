@@ -8,7 +8,7 @@ import kotlin.String
 import kotlin.jvm.JvmStatic
 
 public data class AllTicketsFragmentArgs(
-  public val arrivalTown: String
+  public val arrivalTown: String,
 ) : NavArgs {
   public fun toBundle(): Bundle {
     val result = Bundle()
