@@ -1,6 +1,12 @@
 Тестовое задание для Effective Mobile.   
 Разработка фронтенда приложения для поиска авиабилетов.      
-Полное ТЗ здесь:   https://docs.google.com/document/d/1lYsdro6WiUPIv0uEsxbOgzqFHDJLJPxogCUaCQ0d09Y/edit
+Полное ТЗ здесь:   https://docs.google.com/document/d/1lYsdro6WiUPIv0uEsxbOgzqFHDJLJPxogCUaCQ0d09Y/edit  
+Стек применяемых технологий:  
+- кotlin
+- архитектура: MVVM, Clean architecture, Multi-Module
+- внедрение зависимостей: Hilt
+- сетевые запросы Retrofit, Gson
+- навигация на fragment 
 
 ## Запуск проекта в Android Studio
 
