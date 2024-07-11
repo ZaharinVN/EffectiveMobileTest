@@ -9,10 +9,10 @@ https://github.com/ZaharinVN/EffectiveMobileTest.git
 ```
 ## Скриншоты
 <p float="left">
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_1.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_2.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_3.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_4.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_5.png" width="250"> 
-    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_6.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_1.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_2.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_3.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_4.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_5.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/Screenshot_6.png" width="250"> 
 </p> 
