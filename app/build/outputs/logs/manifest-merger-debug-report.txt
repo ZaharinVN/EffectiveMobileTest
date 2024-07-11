@@ -4,67 +4,67 @@ ADDED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:2:1-31:12
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:2:1-31:12
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:2:1-31:12
-MERGED from [androidx.databinding:viewbinding:8.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3889d1b68e5673127b389cfdff0f975d\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\03f8bea3fc1735c648bd7ca93121a930\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
 MERGED from [:data] D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\acc4c6f9c995f937ca536dc53c13a25c\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2126d08f9cc4c4ef839f75c821b10099\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\63f3a1dd421e7b05d77d29ac20f21c2d\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\58982878e58e75b92bd4e51488a7b5d6\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0e57e074b6868e71b33589e78d2b891c\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f8699cf467b35250a6f57b290e4dc6e7\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\af5e9fc2654184d3164f39852f5f5d0f\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a960ea90050f043a97926821cc582c1\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.11.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f2780ff6eef1985a45bdfb17bc8614a1\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7b523c839a05c65cd02ec7f4ffe71234\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cbca499a2ebe6351d037914895025d53\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2ab03961be5c3411cbecb024e661c65d\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\244f0134680e00bae23dcf17e4d7d26a\transformed\hilt-android-2.50\AndroidManifest.xml:16:1-19:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2f44c1340bba77d51fe42a5c8c8644b3\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d49753f32be008a42bb033a1bb94059d\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ec7fabc2d45c2f241cb5f0c1bc6e6a34\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0b5e67e606540c8af79a56b9ebe26dd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\292fb3e392015df1d1ceef8b7fac9af0\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\15bdb248e821e664d206a4c011c03a75\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\376071ff4ce921a6af4e42b84b949a6e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e8f4519fd6c0631c385a41b2b8dd752f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a0f8c1e3268ede1a5465dd3d3c72203d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb863693e9e4ae8bf1bbdbc4571eb594\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\37ea1520965e4d5e4ffc4cf8add3e91b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\346daaef20a5d22f9477f7e00b82eacc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54e79297f16eaaf5035cdbf9fc4c74d3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07cde365bec9c43129370378f08f9bd4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\47ed4f2d8d3eb50fd78a40ea4a370d78\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07d3f5e908975a7b5af4bf5570d65b7c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9392a1986de57c394a7bf1c8e89ff3df\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.4.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3165d449faa2d721fc3cc1d6c25ee305\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\31184d959ef960c711cd862844f16f6b\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7524412c3f6243cc5ae58a5cd22318fa\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ef717031a39c0b35505228a28faa0ce8\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c422283c6729a6a19eeffaf91953cd85\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2467dcaaabfe0fad8ac45bc06e82d0c0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a3f07e07964043752b1e3fd175fb984b\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\675cb527873436f2e68e143696ca2fa7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3980c66bbb7eed1f45699eca06ba90cb\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ea484a1a8c882f7dc659440268624f4\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2fc48f850f2294ca8250421c5a268577\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d04b9eeed12dfa70759535c9e79d4369\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d1b0c9158060b88c539dee9dfb31981b\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8575d05e42f19571189e70d37e45132f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a7438631171055a75053399f3bb0b62\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7d13f2d099ff59d67c356d1a7e0a1d31\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0806cd3939d4400d99a9e5a25cf9d2db\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5db05376528f36eb64d467facddaf534\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4df41ece274d0a7438f03d9ee1150485\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a87833ced831690f69caff832cfd11e7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\83b951c1179cacbe954ffd6f1ccaaf6c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ab67ac132644a2ad11065c50e68513fd\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\88564e8cb39f093ba1d2af91b8ddb67d\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0117d82ce9b0de9f674765defb14db8e\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\de9412f7f76a7377c2939b777cfbf22f\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8b867b7999d949424e90bcdedb79959f\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e95d42dcc40b225a4d50c5b222b97ec\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c315a770d36eb5bb6d513b9fff5e1c22\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ad57a416279f10f8662ed64585f67ab\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\30f34cbcb4b57b9aca6e6b4e1b46c15a\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d629c978acf8b11bd0d776c1796505c0\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07e1fd6d3e86c2227f40c99d14007785\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\efc6d2b073dec149a0c779f29d7510be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f368070b79e8465649df8f5eddbd116c\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\97b5d1a29805528b9ea98862eda71a17\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d896ef3a771b8d27fd488e8f1f99381\transformed\hilt-android-2.50\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d8f9f92bca8f4dd6524e91e617faf939\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4c56abda5e9a5758484c886f5ce99144\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8733aef4febfabc4e9fcc3c81db2c673\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1977b3e0a8eb0a67274dbfcc7685bef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cdf46ccf185589783e38c0378b95332\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a9d67f582ed1da9fdfac4d42b8fe6b1a\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1ef24d88e1b2036f316a1c34ddf54889\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a8665e7f35f523fdd4ceada5b38de45d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\08f05bc3052e851a4a5dbffa61f906c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\449bbb3f8ee549b7f013a9c985ff3497\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\52cb5989e378f6bd4973ccca4d759ee3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\79d0b18142a8781bd09cb6ed665bc03d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\43fccf1ae593629c9d965c33e55052d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\aea24b84fdab839b2399bc8b59a0b561\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9b8b7b009c760a1b99f6ff4d86fb3db5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\415316db76496044d7a884df0e053551\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ed0d6d0b3b4536aafd032d51e37f4453\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f41341de54775e784da487a193b59b9d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1393bd56e7d97f94e6971ec5d85b339e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\474da05f2c48b3b2f50807a7da3c1e25\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cd7c166a717bdc41710fe0beb95ad3c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cc3a556ed2604706a96c55440ee2752\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e9641b738e059d91d8bfa291ab7d3e3b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3b69042288253cc4eb8d4d7418287b27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\29bb0aca5245b2c60bba979b41d98f18\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\36d2d2ae35ac18d7d7b6fcab9525ca03\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d868e41883592083b5a9ae716f233b3\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb7c98b4dd1aef621ea4256c1ad7f1a2\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e880ab51a08042c524f64f31ca85f014\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\b471de8bc7df62dd408e230a84a71d8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4d4855b34391b447cf3dc71da9460415\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5e79b020e0929371dafc96ea01b3f399\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3a3531ba2dab95d0fb169fd24ea764b6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2d507da65812c676b03eb20526c2a7b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6970a653ca19047b0a2ab63e33a6472b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\399e64055b15e01057ad691e6b35c48b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f1058373853d0ddda807549d31f371b7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\950266712d5e6c9f473c3682ad2a4799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\be5f737ccbe52ba643e08516ec973314\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e76a469e8631c2b406a2de0777e0f5b\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:16:1-19:12
 	package
 		INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -86,28 +86,28 @@ ADDED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:
 application
 ADDED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:8:5-29:19
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:8:5-29:19
-MERGED from [com.google.android.material:material:1.11.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f2780ff6eef1985a45bdfb17bc8614a1\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.11.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f2780ff6eef1985a45bdfb17bc8614a1\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7b523c839a05c65cd02ec7f4ffe71234\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7b523c839a05c65cd02ec7f4ffe71234\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0806cd3939d4400d99a9e5a25cf9d2db\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0806cd3939d4400d99a9e5a25cf9d2db\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.material:material:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07e1fd6d3e86c2227f40c99d14007785\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07e1fd6d3e86c2227f40c99d14007785\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\efc6d2b073dec149a0c779f29d7510be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\efc6d2b073dec149a0c779f29d7510be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2d507da65812c676b03eb20526c2a7b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2d507da65812c676b03eb20526c2a7b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
@@ -150,231 +150,231 @@ uses-sdk
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
 INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3889d1b68e5673127b389cfdff0f975d\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3889d1b68e5673127b389cfdff0f975d\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\03f8bea3fc1735c648bd7ca93121a930\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\03f8bea3fc1735c648bd7ca93121a930\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
 MERGED from [:data] D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:data] D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\acc4c6f9c995f937ca536dc53c13a25c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\acc4c6f9c995f937ca536dc53c13a25c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2126d08f9cc4c4ef839f75c821b10099\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2126d08f9cc4c4ef839f75c821b10099\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\63f3a1dd421e7b05d77d29ac20f21c2d\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\63f3a1dd421e7b05d77d29ac20f21c2d\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\58982878e58e75b92bd4e51488a7b5d6\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\58982878e58e75b92bd4e51488a7b5d6\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0e57e074b6868e71b33589e78d2b891c\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0e57e074b6868e71b33589e78d2b891c\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f8699cf467b35250a6f57b290e4dc6e7\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f8699cf467b35250a6f57b290e4dc6e7\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\af5e9fc2654184d3164f39852f5f5d0f\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\af5e9fc2654184d3164f39852f5f5d0f\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a960ea90050f043a97926821cc582c1\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a960ea90050f043a97926821cc582c1\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f2780ff6eef1985a45bdfb17bc8614a1\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f2780ff6eef1985a45bdfb17bc8614a1\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7b523c839a05c65cd02ec7f4ffe71234\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7b523c839a05c65cd02ec7f4ffe71234\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cbca499a2ebe6351d037914895025d53\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cbca499a2ebe6351d037914895025d53\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2ab03961be5c3411cbecb024e661c65d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2ab03961be5c3411cbecb024e661c65d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\244f0134680e00bae23dcf17e4d7d26a\transformed\hilt-android-2.50\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\244f0134680e00bae23dcf17e4d7d26a\transformed\hilt-android-2.50\AndroidManifest.xml:18:3-42
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2f44c1340bba77d51fe42a5c8c8644b3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2f44c1340bba77d51fe42a5c8c8644b3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d49753f32be008a42bb033a1bb94059d\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d49753f32be008a42bb033a1bb94059d\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ec7fabc2d45c2f241cb5f0c1bc6e6a34\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ec7fabc2d45c2f241cb5f0c1bc6e6a34\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0b5e67e606540c8af79a56b9ebe26dd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0b5e67e606540c8af79a56b9ebe26dd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\292fb3e392015df1d1ceef8b7fac9af0\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\292fb3e392015df1d1ceef8b7fac9af0\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\15bdb248e821e664d206a4c011c03a75\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\15bdb248e821e664d206a4c011c03a75\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\376071ff4ce921a6af4e42b84b949a6e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\376071ff4ce921a6af4e42b84b949a6e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e8f4519fd6c0631c385a41b2b8dd752f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e8f4519fd6c0631c385a41b2b8dd752f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a0f8c1e3268ede1a5465dd3d3c72203d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a0f8c1e3268ede1a5465dd3d3c72203d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb863693e9e4ae8bf1bbdbc4571eb594\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb863693e9e4ae8bf1bbdbc4571eb594\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\37ea1520965e4d5e4ffc4cf8add3e91b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\37ea1520965e4d5e4ffc4cf8add3e91b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\346daaef20a5d22f9477f7e00b82eacc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\346daaef20a5d22f9477f7e00b82eacc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54e79297f16eaaf5035cdbf9fc4c74d3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54e79297f16eaaf5035cdbf9fc4c74d3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07cde365bec9c43129370378f08f9bd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07cde365bec9c43129370378f08f9bd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\47ed4f2d8d3eb50fd78a40ea4a370d78\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\47ed4f2d8d3eb50fd78a40ea4a370d78\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07d3f5e908975a7b5af4bf5570d65b7c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07d3f5e908975a7b5af4bf5570d65b7c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9392a1986de57c394a7bf1c8e89ff3df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9392a1986de57c394a7bf1c8e89ff3df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.4.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3165d449faa2d721fc3cc1d6c25ee305\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3165d449faa2d721fc3cc1d6c25ee305\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\31184d959ef960c711cd862844f16f6b\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\31184d959ef960c711cd862844f16f6b\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7524412c3f6243cc5ae58a5cd22318fa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7524412c3f6243cc5ae58a5cd22318fa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ef717031a39c0b35505228a28faa0ce8\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ef717031a39c0b35505228a28faa0ce8\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c422283c6729a6a19eeffaf91953cd85\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c422283c6729a6a19eeffaf91953cd85\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2467dcaaabfe0fad8ac45bc06e82d0c0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2467dcaaabfe0fad8ac45bc06e82d0c0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a3f07e07964043752b1e3fd175fb984b\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a3f07e07964043752b1e3fd175fb984b\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\675cb527873436f2e68e143696ca2fa7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\675cb527873436f2e68e143696ca2fa7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3980c66bbb7eed1f45699eca06ba90cb\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3980c66bbb7eed1f45699eca06ba90cb\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ea484a1a8c882f7dc659440268624f4\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ea484a1a8c882f7dc659440268624f4\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2fc48f850f2294ca8250421c5a268577\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2fc48f850f2294ca8250421c5a268577\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d04b9eeed12dfa70759535c9e79d4369\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d04b9eeed12dfa70759535c9e79d4369\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d1b0c9158060b88c539dee9dfb31981b\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d1b0c9158060b88c539dee9dfb31981b\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8575d05e42f19571189e70d37e45132f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8575d05e42f19571189e70d37e45132f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a7438631171055a75053399f3bb0b62\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0a7438631171055a75053399f3bb0b62\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7d13f2d099ff59d67c356d1a7e0a1d31\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7d13f2d099ff59d67c356d1a7e0a1d31\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0806cd3939d4400d99a9e5a25cf9d2db\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0806cd3939d4400d99a9e5a25cf9d2db\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5db05376528f36eb64d467facddaf534\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5db05376528f36eb64d467facddaf534\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4df41ece274d0a7438f03d9ee1150485\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4df41ece274d0a7438f03d9ee1150485\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a87833ced831690f69caff832cfd11e7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a87833ced831690f69caff832cfd11e7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\83b951c1179cacbe954ffd6f1ccaaf6c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\83b951c1179cacbe954ffd6f1ccaaf6c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ab67ac132644a2ad11065c50e68513fd\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ab67ac132644a2ad11065c50e68513fd\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\88564e8cb39f093ba1d2af91b8ddb67d\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\88564e8cb39f093ba1d2af91b8ddb67d\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0117d82ce9b0de9f674765defb14db8e\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0117d82ce9b0de9f674765defb14db8e\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\de9412f7f76a7377c2939b777cfbf22f\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\de9412f7f76a7377c2939b777cfbf22f\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8b867b7999d949424e90bcdedb79959f\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8b867b7999d949424e90bcdedb79959f\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e95d42dcc40b225a4d50c5b222b97ec\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e95d42dcc40b225a4d50c5b222b97ec\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c315a770d36eb5bb6d513b9fff5e1c22\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c315a770d36eb5bb6d513b9fff5e1c22\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ad57a416279f10f8662ed64585f67ab\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6ad57a416279f10f8662ed64585f67ab\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\30f34cbcb4b57b9aca6e6b4e1b46c15a\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\30f34cbcb4b57b9aca6e6b4e1b46c15a\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d629c978acf8b11bd0d776c1796505c0\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d629c978acf8b11bd0d776c1796505c0\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07e1fd6d3e86c2227f40c99d14007785\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\07e1fd6d3e86c2227f40c99d14007785\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\efc6d2b073dec149a0c779f29d7510be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\efc6d2b073dec149a0c779f29d7510be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f368070b79e8465649df8f5eddbd116c\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f368070b79e8465649df8f5eddbd116c\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\97b5d1a29805528b9ea98862eda71a17\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\97b5d1a29805528b9ea98862eda71a17\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d896ef3a771b8d27fd488e8f1f99381\transformed\hilt-android-2.50\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d896ef3a771b8d27fd488e8f1f99381\transformed\hilt-android-2.50\AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d8f9f92bca8f4dd6524e91e617faf939\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d8f9f92bca8f4dd6524e91e617faf939\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4c56abda5e9a5758484c886f5ce99144\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4c56abda5e9a5758484c886f5ce99144\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8733aef4febfabc4e9fcc3c81db2c673\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\8733aef4febfabc4e9fcc3c81db2c673\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1977b3e0a8eb0a67274dbfcc7685bef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1977b3e0a8eb0a67274dbfcc7685bef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cdf46ccf185589783e38c0378b95332\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cdf46ccf185589783e38c0378b95332\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a9d67f582ed1da9fdfac4d42b8fe6b1a\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a9d67f582ed1da9fdfac4d42b8fe6b1a\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1ef24d88e1b2036f316a1c34ddf54889\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1ef24d88e1b2036f316a1c34ddf54889\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a8665e7f35f523fdd4ceada5b38de45d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\a8665e7f35f523fdd4ceada5b38de45d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\08f05bc3052e851a4a5dbffa61f906c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\08f05bc3052e851a4a5dbffa61f906c3\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\449bbb3f8ee549b7f013a9c985ff3497\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\449bbb3f8ee549b7f013a9c985ff3497\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\52cb5989e378f6bd4973ccca4d759ee3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\52cb5989e378f6bd4973ccca4d759ee3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\79d0b18142a8781bd09cb6ed665bc03d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\79d0b18142a8781bd09cb6ed665bc03d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\43fccf1ae593629c9d965c33e55052d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\43fccf1ae593629c9d965c33e55052d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\aea24b84fdab839b2399bc8b59a0b561\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\aea24b84fdab839b2399bc8b59a0b561\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9b8b7b009c760a1b99f6ff4d86fb3db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\9b8b7b009c760a1b99f6ff4d86fb3db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\415316db76496044d7a884df0e053551\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\415316db76496044d7a884df0e053551\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ed0d6d0b3b4536aafd032d51e37f4453\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ed0d6d0b3b4536aafd032d51e37f4453\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f41341de54775e784da487a193b59b9d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f41341de54775e784da487a193b59b9d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1393bd56e7d97f94e6971ec5d85b339e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1393bd56e7d97f94e6971ec5d85b339e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\474da05f2c48b3b2f50807a7da3c1e25\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\474da05f2c48b3b2f50807a7da3c1e25\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cd7c166a717bdc41710fe0beb95ad3c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cd7c166a717bdc41710fe0beb95ad3c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cc3a556ed2604706a96c55440ee2752\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6cc3a556ed2604706a96c55440ee2752\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e9641b738e059d91d8bfa291ab7d3e3b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e9641b738e059d91d8bfa291ab7d3e3b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3b69042288253cc4eb8d4d7418287b27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3b69042288253cc4eb8d4d7418287b27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\29bb0aca5245b2c60bba979b41d98f18\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\29bb0aca5245b2c60bba979b41d98f18\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\36d2d2ae35ac18d7d7b6fcab9525ca03\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\36d2d2ae35ac18d7d7b6fcab9525ca03\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d868e41883592083b5a9ae716f233b3\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\1d868e41883592083b5a9ae716f233b3\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb7c98b4dd1aef621ea4256c1ad7f1a2\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\fb7c98b4dd1aef621ea4256c1ad7f1a2\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e880ab51a08042c524f64f31ca85f014\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e880ab51a08042c524f64f31ca85f014\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\b471de8bc7df62dd408e230a84a71d8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\b471de8bc7df62dd408e230a84a71d8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4d4855b34391b447cf3dc71da9460415\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\4d4855b34391b447cf3dc71da9460415\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5e79b020e0929371dafc96ea01b3f399\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5e79b020e0929371dafc96ea01b3f399\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3a3531ba2dab95d0fb169fd24ea764b6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\3a3531ba2dab95d0fb169fd24ea764b6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2d507da65812c676b03eb20526c2a7b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2d507da65812c676b03eb20526c2a7b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6970a653ca19047b0a2ab63e33a6472b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6970a653ca19047b0a2ab63e33a6472b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\399e64055b15e01057ad691e6b35c48b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\399e64055b15e01057ad691e6b35c48b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f1058373853d0ddda807549d31f371b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f1058373853d0ddda807549d31f371b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\950266712d5e6c9f473c3682ad2a4799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\950266712d5e6c9f473c3682ad2a4799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\be5f737ccbe52ba643e08516ec973314\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\be5f737ccbe52ba643e08516ec973314\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e76a469e8631c2b406a2de0777e0f5b\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7e76a469e8631c2b406a2de0777e0f5b\transformed\dagger-lint-aar-2.50\AndroidManifest.xml:18:3-42
 	android:targetSdkVersion
 		INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\ANDROID.SAVE\EffectiveMobileTest\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5ff220b1eca29f1a9aef703a0ab08a7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\cd64ca18eeead1e791d0902f099d057c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f4a7aa05978434cd434f27fba4c77f99\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5f05bdf4d0a353cda7df2f4aad9b8e7b\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\ca24fbd7052e2e0023ff21c2a8e3bf6c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\7081076906c166e27e7d2205407ac2ec\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 permission#com.karsoft.effectivemobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 uses-permission#com.karsoft.effectivemobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\dd5ae24da448f4d075e1e3cf4de44bf1\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\5115e66b44de4103df5b104cf1733bb4\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6628136f38dfe5f70699385d3b66f612\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c64506c912b27ac348fc232ce3f6100b\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\2cad51d28552f5cafa6b1d6f90d22b11\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\54f50731b34e297c9d47f946f3fe9f5a\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

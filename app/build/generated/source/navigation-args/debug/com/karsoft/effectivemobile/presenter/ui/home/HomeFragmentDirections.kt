@@ -9,7 +9,7 @@ import kotlin.String
 
 public class HomeFragmentDirections private constructor() {
   private data class ActionHomeFragmentToAllTicketsFragment(
-    public val arrivalTown: String
+    public val arrivalTown: String,
   ) : NavDirections {
     public override val actionId: Int = R.id.action_homeFragment_to_allTicketsFragment
 

@@ -4,14 +4,14 @@
             "outputFile": "com.karsoft.effectivemobile.test.app-mergeDebugAndroidTestResources-1:/values/values.xml",
             "map": [
                 {
-                    "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\caches\\transforms-3\\a0a1763108d0904bdf743dee965e8d86\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\caches\\transforms-3\\8a347d3b4acc2ce63f651d7846f43868\\transformed\\core-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",
-                        "startOffsets": "176,544",
+                        "startOffsets": "142,510",
                         "endLines": "10,17",
                         "endColumns": "8,8",
-                        "endOffsets": "543,909"
+                        "endOffsets": "509,875"
                     },
                     "to": {
                         "startLines": "2,9",
