@@ -1,8 +1,18 @@
-### Effective Mobile Test
+Тестовое задание для Effective Mobile.   
+Разработка фронтенда приложения для поиска авиабилетов.      
+Полное ТЗ здесь:   https://docs.google.com/document/d/1lYsdro6WiUPIv0uEsxbOgzqFHDJLJPxogCUaCQ0d09Y/edit
 
-This App contains an application for searching for air tickets. The application provides the user with the ability to search and view available flights, as well as receive information about prices and flight schedules.
+## Запуск проекта в Android Studio
 
-The app is built using various technologies such as Coroutines/Flow, MVVM, Dagger Hilt, ,Xml, Clean architecture, Multi-Module, Permissions and more.
-
-### Installation:
-`git clone` https://github.com/atabekkr/EffectiveMobile.git
+```bash
+https://github.com/ZaharinVN/EffectiveMobileTest.git
+```
+## Скриншоты
+<p float="left">
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_1.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_2.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_3.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_4.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_5.png" width="250"> 
+    <img src="https://github.com/ZaharinVN/EM-aviasales/blob/dev/Screenshot_6.png" width="250"> 
+</p> 

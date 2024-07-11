@@ -74,6 +74,7 @@ drawable ic_tip_1
 drawable ic_tip_2
 drawable ic_tip_3
 drawable ic_tip_4
+drawable il_angry_cat
 drawable pic_buble_gum_woman
 drawable pic_offer_1
 drawable pic_offer_2

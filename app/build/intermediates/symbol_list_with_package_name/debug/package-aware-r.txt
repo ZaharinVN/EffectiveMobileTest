@@ -3119,6 +3119,7 @@ drawable ic_tip_1
 drawable ic_tip_2
 drawable ic_tip_3
 drawable ic_tip_4
+drawable il_angry_cat
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle

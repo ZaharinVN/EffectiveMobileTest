@@ -3118,6 +3118,7 @@ int drawable ic_tip_1 0x7f0700b3
 int drawable ic_tip_2 0x7f0700b4
 int drawable ic_tip_3 0x7f0700b5
 int drawable ic_tip_4 0x7f0700b6
+int drawable il_angry_cat 0x7f07010c
 int drawable m3_avd_hide_password 0x7f0700b7
 int drawable m3_avd_show_password 0x7f0700b8
 int drawable m3_bottom_sheet_drag_handle 0x7f0700b9
