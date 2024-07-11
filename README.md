@@ -1,3 +1,4 @@
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org)  
 Тестовое задание для Effective Mobile.   
 Разработка фронтенда приложения для поиска авиабилетов.      
 Полное ТЗ здесь:   https://docs.google.com/document/d/1lYsdro6WiUPIv0uEsxbOgzqFHDJLJPxogCUaCQ0d09Y/edit  
