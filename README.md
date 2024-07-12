@@ -32,7 +32,7 @@
 https://github.com/ZaharinVN/EffectiveMobileTest.git
 ``` 
  ## Установка
-[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android)](https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/app-debug.apk)]
+[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android)](https://github.com/ZaharinVN/EffectiveMobileTest/blob/master/app-debug.apk)
 ```
 
 
