@@ -6,7 +6,7 @@ import com.karsoft.effectivemobile.domain.models.Price
 import com.karsoft.effectivemobile.domain.models.TicketOffer
 import javax.inject.Inject
 
-class TicketOfferMapper @Inject constructor(): Mapper<TicketOfferResponse, TicketOffer> {
+class TicketOfferMapper @Inject constructor() : Mapper<TicketOfferResponse, TicketOffer> {
     override fun mapFromEntity(from: TicketOfferResponse) = from.run {
         TicketOffer(
             id,

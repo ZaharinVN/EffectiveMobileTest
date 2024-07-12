@@ -1,7 +1,5 @@
 package com.karsoft.effectivemobile.domain.mapper.base
 
-import java.lang.RuntimeException
-
 interface Mapper<E, D> {
     fun mapFromEntity(from: E): D
 

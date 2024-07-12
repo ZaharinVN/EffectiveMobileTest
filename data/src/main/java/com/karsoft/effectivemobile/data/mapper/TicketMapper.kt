@@ -30,7 +30,10 @@ class TicketMapper @Inject constructor() : Mapper<TicketResponse, Ticket> {
             has_visa_transfer = has_visa_transfer,
             is_exchangable = is_exchangable,
             is_returnable = is_returnable,
-            luggage = Luggage(has_luggage = luggage.has_luggage, price = Price(luggage.price.value)),
+            luggage = Luggage(
+                has_luggage = luggage.has_luggage,
+                price = Price(luggage.price.value)
+            ),
             price = Price(price.value),
             provider_name = provider_name
         )

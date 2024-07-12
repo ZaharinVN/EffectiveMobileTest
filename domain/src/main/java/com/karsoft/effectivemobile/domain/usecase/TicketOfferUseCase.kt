@@ -4,5 +4,5 @@ import com.karsoft.effectivemobile.domain.models.TicketOffer
 
 interface TicketOfferUseCase {
 
-    suspend fun getTicketOffers() : List<TicketOffer>
+    suspend fun getTicketOffers(): List<TicketOffer>
 }
