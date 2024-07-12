@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.karsoft.effectivemobile.data.test" >
+4
+5    <uses-sdk
+5-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:5:15-41
+7        android:targetSdkVersion="24" />
+7-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:11:5-15:87
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:11:22-76
+11        android:functionalTest="false"
+11-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:13:22-53
+13        android:label="Tests for com.karsoft.effectivemobile.data.test"
+13-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:15:22-85
+14        android:targetPackage="com.karsoft.effectivemobile.data.test" />
+14-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:12:22-83
+15
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:24:5-72
+16-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:24:22-69
+17
+18    <application
+18-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:7:5-9:19
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c1cbdd8b7b9baa8146ea0acdcda1521a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false" >
+22        <uses-library android:name="android.test.runner" />
+22-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:8:9-60
+22-->D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8546260074282496600.xml:8:23-57
+23
+24        <activity
+24-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:27:9-34:20
+25            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+25-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:28:13-99
+26            android:exported="true"
+26-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:29:13-36
+27            android:theme="@style/WhiteBackgroundTheme" >
+27-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:30:13-56
+28            <intent-filter android:priority="-100" >
+28-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+28-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+29-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:35:9-42:20
+33            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+33-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:36:13-95
+34            android:exported="true"
+34-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:37:13-36
+35            android:theme="@style/WhiteBackgroundTheme" >
+35-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:38:13-56
+36            <intent-filter android:priority="-100" >
+36-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+36-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+37-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:43:9-50:20
+41            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+41-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:44:13-103
+42            android:exported="true"
+42-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:45:13-36
+43            android:theme="@style/WhiteBackgroundDialogTheme" >
+43-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:46:13-62
+44            <intent-filter android:priority="-100" >
+44-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+44-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+45-->[androidx.test:core:1.5.0] D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48    </application>
+49
+50</manifest>

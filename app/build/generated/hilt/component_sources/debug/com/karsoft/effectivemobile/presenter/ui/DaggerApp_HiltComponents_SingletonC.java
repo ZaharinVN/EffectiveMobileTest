@@ -14,11 +14,10 @@ import com.karsoft.effectivemobile.data.mapper.TicketOfferMapper;
 import com.karsoft.effectivemobile.data.repository.OfferRepositoryImpl;
 import com.karsoft.effectivemobile.data.repository.TicketOfferRepositoryImpl;
 import com.karsoft.effectivemobile.data.repository.TicketRepositoryImpl;
-import com.karsoft.effectivemobile.di.DomainModule_BindOfferUseCaseFactory;
-import com.karsoft.effectivemobile.di.DomainModule_BindTicketOfferUseCaseFactory;
-import com.karsoft.effectivemobile.di.DomainModule_BindTicketUseCaseFactory;
-import com.karsoft.effectivemobile.di.LocalStorageModule;
-import com.karsoft.effectivemobile.di.LocalStorageModule_ProvideFusedLocationProviderClientFactory;
+import com.karsoft.effectivemobile.di.DomainModule_ProvideOfferUseCaseFactory;
+import com.karsoft.effectivemobile.di.DomainModule_ProvideTicketOfferUseCaseFactory;
+import com.karsoft.effectivemobile.di.DomainModule_ProvideTicketUseCaseFactory;
+import com.karsoft.effectivemobile.di.LocalStorageModule_ProvideLocalStorageFactory;
 import com.karsoft.effectivemobile.domain.usecase.OfferUseCase;
 import com.karsoft.effectivemobile.domain.usecase.TicketOfferUseCase;
 import com.karsoft.effectivemobile.domain.usecase.TicketUseCase;
@@ -82,8 +81,6 @@ public final class DaggerApp_HiltComponents_SingletonC {
   public static final class Builder {
     private ApplicationContextModule applicationContextModule;
 
-    private LocalStorageModule localStorageModule;
-
     private Builder() {
     }
 
@@ -92,17 +89,9 @@ public final class DaggerApp_HiltComponents_SingletonC {
       return this;
     }
 
-    public Builder localStorageModule(LocalStorageModule localStorageModule) {
-      this.localStorageModule = Preconditions.checkNotNull(localStorageModule);
-      return this;
-    }
-
     public App_HiltComponents.SingletonC build() {
       Preconditions.checkBuilderRequirement(applicationContextModule, ApplicationContextModule.class);
-      if (localStorageModule == null) {
-        this.localStorageModule = new LocalStorageModule();
-      }
-      return new SingletonCImpl(applicationContextModule, localStorageModule);
+      return new SingletonCImpl(applicationContextModule);
     }
   }
 
@@ -376,19 +365,19 @@ public final class DaggerApp_HiltComponents_SingletonC {
 
     @CanIgnoreReturnValue
     private AllTicketsFragment injectAllTicketsFragment2(AllTicketsFragment instance) {
-      AllTicketsFragment_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideFusedLocationProviderClientProvider.get());
+      AllTicketsFragment_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideLocalStorageProvider.get());
       return instance;
     }
 
     @CanIgnoreReturnValue
     private BottomSheet injectBottomSheet2(BottomSheet instance) {
-      BottomSheet_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideFusedLocationProviderClientProvider.get());
+      BottomSheet_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideLocalStorageProvider.get());
       return instance;
     }
 
     @CanIgnoreReturnValue
     private HomeFragment injectHomeFragment2(HomeFragment instance) {
-      HomeFragment_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideFusedLocationProviderClientProvider.get());
+      HomeFragment_MembersInjector.injectLocalStorage(instance, singletonCImpl.provideLocalStorageProvider.get());
       return instance;
     }
   }
@@ -520,13 +509,13 @@ public final class DaggerApp_HiltComponents_SingletonC {
       public T get() {
         switch (id) {
           case 0: // com.karsoft.effectivemobile.presenter.ui.alltickets.AllTicketsViewModel 
-          return (T) new AllTicketsViewModel(singletonCImpl.bindTicketUseCaseProvider.get(), new TicketUIMapper());
+          return (T) new AllTicketsViewModel(singletonCImpl.provideTicketUseCaseProvider.get(), new TicketUIMapper());
 
           case 1: // com.karsoft.effectivemobile.presenter.ui.home.viewmodel.OfferViewModel 
-          return (T) new OfferViewModel(singletonCImpl.bindOfferUseCaseProvider.get(), new OfferUIMapper());
+          return (T) new OfferViewModel(singletonCImpl.provideOfferUseCaseProvider.get(), new OfferUIMapper());
 
           case 2: // com.karsoft.effectivemobile.presenter.ui.home.viewmodel.TicketOfferViewModel 
-          return (T) new TicketOfferViewModel(singletonCImpl.bindTicketOfferUseCaseProvider.get(), new TicketOfferUIMapper());
+          return (T) new TicketOfferViewModel(singletonCImpl.provideTicketOfferUseCaseProvider.get(), new TicketOfferUIMapper());
 
           default: throw new AssertionError(id);
         }
@@ -604,25 +593,21 @@ public final class DaggerApp_HiltComponents_SingletonC {
   }
 
   private static final class SingletonCImpl extends App_HiltComponents.SingletonC {
-    private final LocalStorageModule localStorageModule;
-
     private final ApplicationContextModule applicationContextModule;
 
     private final SingletonCImpl singletonCImpl = this;
 
-    private Provider<LocalStorage> provideFusedLocationProviderClientProvider;
+    private Provider<LocalStorage> provideLocalStorageProvider;
 
-    private Provider<TicketUseCase> bindTicketUseCaseProvider;
+    private Provider<TicketUseCase> provideTicketUseCaseProvider;
 
-    private Provider<OfferUseCase> bindOfferUseCaseProvider;
+    private Provider<OfferUseCase> provideOfferUseCaseProvider;
 
-    private Provider<TicketOfferUseCase> bindTicketOfferUseCaseProvider;
+    private Provider<TicketOfferUseCase> provideTicketOfferUseCaseProvider;
 
-    private SingletonCImpl(ApplicationContextModule applicationContextModuleParam,
-        LocalStorageModule localStorageModuleParam) {
-      this.localStorageModule = localStorageModuleParam;
+    private SingletonCImpl(ApplicationContextModule applicationContextModuleParam) {
       this.applicationContextModule = applicationContextModuleParam;
-      initialize(applicationContextModuleParam, localStorageModuleParam);
+      initialize(applicationContextModuleParam);
 
     }
 
@@ -639,16 +624,15 @@ public final class DaggerApp_HiltComponents_SingletonC {
     }
 
     @SuppressWarnings("unchecked")
-    private void initialize(final ApplicationContextModule applicationContextModuleParam,
-        final LocalStorageModule localStorageModuleParam) {
-      this.provideFusedLocationProviderClientProvider = DoubleCheck.provider(new SwitchingProvider<LocalStorage>(singletonCImpl, 0));
-      this.bindTicketUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<TicketUseCase>(singletonCImpl, 1));
-      this.bindOfferUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<OfferUseCase>(singletonCImpl, 2));
-      this.bindTicketOfferUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<TicketOfferUseCase>(singletonCImpl, 3));
+    private void initialize(final ApplicationContextModule applicationContextModuleParam) {
+      this.provideLocalStorageProvider = DoubleCheck.provider(new SwitchingProvider<LocalStorage>(singletonCImpl, 0));
+      this.provideTicketUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<TicketUseCase>(singletonCImpl, 1));
+      this.provideOfferUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<OfferUseCase>(singletonCImpl, 2));
+      this.provideTicketOfferUseCaseProvider = DoubleCheck.provider(new SwitchingProvider<TicketOfferUseCase>(singletonCImpl, 3));
     }
 
     @Override
-    public void injectApp(App arg0) {
+    public void injectApp(App app) {
     }
 
     @Override
@@ -681,16 +665,16 @@ public final class DaggerApp_HiltComponents_SingletonC {
       public T get() {
         switch (id) {
           case 0: // com.karsoft.effectivemobile.utils.LocalStorage 
-          return (T) LocalStorageModule_ProvideFusedLocationProviderClientFactory.provideFusedLocationProviderClient(singletonCImpl.localStorageModule, ApplicationContextModule_ProvideContextFactory.provideContext(singletonCImpl.applicationContextModule));
+          return (T) LocalStorageModule_ProvideLocalStorageFactory.provideLocalStorage(ApplicationContextModule_ProvideContextFactory.provideContext(singletonCImpl.applicationContextModule));
 
           case 1: // com.karsoft.effectivemobile.domain.usecase.TicketUseCase 
-          return (T) DomainModule_BindTicketUseCaseFactory.bindTicketUseCase(singletonCImpl.ticketRepositoryImpl());
+          return (T) DomainModule_ProvideTicketUseCaseFactory.provideTicketUseCase(singletonCImpl.ticketRepositoryImpl());
 
           case 2: // com.karsoft.effectivemobile.domain.usecase.OfferUseCase 
-          return (T) DomainModule_BindOfferUseCaseFactory.bindOfferUseCase(singletonCImpl.offerRepositoryImpl());
+          return (T) DomainModule_ProvideOfferUseCaseFactory.provideOfferUseCase(singletonCImpl.offerRepositoryImpl());
 
           case 3: // com.karsoft.effectivemobile.domain.usecase.TicketOfferUseCase 
-          return (T) DomainModule_BindTicketOfferUseCaseFactory.bindTicketOfferUseCase(singletonCImpl.ticketOfferRepositoryImpl());
+          return (T) DomainModule_ProvideTicketOfferUseCaseFactory.provideTicketOfferUseCase(singletonCImpl.ticketOfferRepositoryImpl());
 
           default: throw new AssertionError(id);
         }

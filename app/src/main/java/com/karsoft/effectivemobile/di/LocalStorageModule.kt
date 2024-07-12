@@ -11,11 +11,19 @@ import javax.inject.Singleton
 
 @Module
 @InstallIn(SingletonComponent::class)
-class LocalStorageModule {
+object LocalStorageModule {
+    /**
+     * Предоставляет singleton-экземпляр [LocalStorage], использующий [SharedPreferences]
+     * с именем "SharedPreference" и режимом доступа [Context.MODE_PRIVATE].
+     *
+     * @param context приложенческий контекст, необходимый для получения [SharedPreferences].
+     * @return экземпляр [LocalStorage].
+     */
     @Provides
     @Singleton
-    fun provideFusedLocationProviderClient(@ApplicationContext context: Context): LocalStorage {
-        val preference = context.getSharedPreferences("SharedPreference", Context.MODE_PRIVATE)
-        return LocalStorage(preference)
+    fun provideLocalStorage(@ApplicationContext context: Context): LocalStorage {
+        val sharedPreferences =
+            context.getSharedPreferences("SharedPreference", Context.MODE_PRIVATE)
+        return LocalStorage(sharedPreferences)
     }
 }

@@ -1,30 +1,34 @@
 [
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/item_ticket.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/item_ticket.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\bottom_sheet_search_ticket.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\bottom_sheet_search_ticket.xml"
     },
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/bottom_sheet_search_ticket.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/bottom_sheet_search_ticket.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\fragment_home.xml"
     },
     {
         "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/fragment_all_tickets.xml",
         "source": "com.karsoft.effectivemobile.app-main-6:/layout/fragment_all_tickets.xml"
     },
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/fragment_home.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/fragment_home.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\item_ticket.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\item_ticket.xml"
     },
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/activity_main.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/activity_main.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/item_offer.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/item_offer.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\item_offer.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\item_offer.xml"
     },
     {
-        "merged": "com.karsoft.effectivemobile.app-mergeDebugResources-3:/layout/fragment_plug.xml",
-        "source": "com.karsoft.effectivemobile.app-main-6:/layout/fragment_plug.xml"
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\fragment_all_tickets.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\fragment_all_tickets.xml"
+    },
+    {
+        "merged": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-mergeDebugResources-3:\\layout\\fragment_plug.xml",
+        "source": "D:\\ANDROID.SAVE\\PlaylistMaker-MARGINA\\daemon\\8.2\\com.karsoft.effectivemobile.app-main-6:\\layout\\fragment_plug.xml"
     }
 ]

@@ -18,27 +18,45 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 object DomainModule {
+    /**
+     * Предоставляет экземпляр [OfferUseCase] с использованием предоставленного [OfferRepository].
+     *
+     * @param offerRepository репозиторий, используемый [OfferUseCase].
+     * @return экземпляр [OfferUseCase].
+     */
     @Provides
     @Singleton
-    fun bindOfferUseCase(
-        repo: OfferRepository,
+    fun provideOfferUseCase(
+        offerRepository: OfferRepository
     ): OfferUseCase {
-        return OfferUseCaseImpl(repo)
+        return OfferUseCaseImpl(offerRepository)
     }
 
+    /**
+     * Предоставляет экземпляр [TicketOfferUseCase] с использованием предоставленного [TicketOfferRepository].
+     *
+     * @param ticketOfferRepository репозиторий, используемый [TicketOfferUseCase].
+     * @return экземпляр [TicketOfferUseCase].
+     */
     @Provides
     @Singleton
-    fun bindTicketOfferUseCase(
-        repo: TicketOfferRepository,
+    fun provideTicketOfferUseCase(
+        ticketOfferRepository: TicketOfferRepository
     ): TicketOfferUseCase {
-        return TicketOfferUseCaseImpl(repo)
+        return TicketOfferUseCaseImpl(ticketOfferRepository)
     }
 
+    /**
+     * Предоставляет экземпляр [TicketUseCase] с использованием предоставленного [TicketRepository].
+     *
+     * @param ticketRepository репозиторий, используемый [TicketUseCase].
+     * @return экземпляр [TicketUseCase].
+     */
     @Provides
     @Singleton
-    fun bindTicketUseCase(
-        repo: TicketRepository,
+    fun provideTicketUseCase(
+        ticketRepository: TicketRepository
     ): TicketUseCase {
-        return TicketUseCaseImpl(repo)
+        return TicketUseCaseImpl(ticketRepository)
     }
 }

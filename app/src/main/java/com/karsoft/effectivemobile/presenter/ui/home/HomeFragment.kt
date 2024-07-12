@@ -24,13 +24,10 @@ import javax.inject.Inject
 
 @AndroidEntryPoint
 class HomeFragment : Fragment(R.layout.fragment_home) {
-
     private val placeOfferViewModel by viewModels<OfferViewModel>()
     private val ticketOfferViewModel by viewModels<TicketOfferViewModel>()
-
     private var _binding: FragmentHomeBinding? = null
     private val binding get() = _binding!!
-
     private val adapter = OffersAdapter()
 
     @Inject
@@ -40,32 +37,31 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
         loadData()
         setupViews(view)
         setupListeners()
         setupObservers()
-
     }
 
     private fun loadData() {
         placeOfferViewModel.getOffers()
+        ticketOfferViewModel.getTicketOffers() // Load ticket offers when the fragment is created
     }
 
     private fun setupViews(view: View) {
-
         _binding = FragmentHomeBinding.bind(view)
-
         binding.rvOffers.adapter = adapter
+        if (localStorage.lastInputCity.isNotBlank()) {
+            binding.etFromWhereFirstScreen.setText(localStorage.lastInputCity)
+        }
 
-        if (localStorage.lastInputCity.isNotBlank()) binding.etFromWhereFirstScreen.setText(
-            localStorage.lastInputCity
-        )
-
+        val formatter = SimpleDateFormat("dd MMM EEE", Locale("ru"))
+        val date = Date()
+        currentDay = formatter.format(date)
+        binding.tvCurrentDate.text = currentDay // Set current date here
     }
 
     private fun setupListeners() {
-
         val bottomSheet = BottomSheet()
 
         binding.tvTipWhere.setOnClickListener {
@@ -103,7 +99,6 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
         }
 
         bottomSheet.setOnAnywhereItemClickListener { nameOfCity ->
-            ticketOfferViewModel.getTicketOffers()
             changeUIState(nameOfCity)
         }
 
@@ -112,35 +107,28 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
                 HomeFragmentDirections.actionHomeFragmentToPlugFragment()
             )
         }
-
     }
 
     private fun changeUIState(nameOfCity: String) {
-
         binding.etWhereSecondScreen.setText(nameOfCity)
         binding.etWhereFromSecondScreen.setText(localStorage.lastInputCity)
-
         this.binding.llSecond.visibility = View.VISIBLE
         this.binding.llFirst.visibility = View.GONE
-
-        val formatter = SimpleDateFormat("dd MMM EEE", Locale("ru"))
-        val date = Date()
-        currentDay = formatter.format(date)
-        binding.tvCurrentDate.text = currentDay
-
     }
 
     private fun setupObservers() {
-
         placeOfferViewModel.getOffersResult.onEach {
             adapter.submitList(it)
         }.launchIn(viewLifecycleOwner.lifecycleScope)
 
         ticketOfferViewModel.getTicketOffersResult.onEach { result ->
-
-            binding.tvNameOfAviacompanyRed.text = result.getOrNull(0)?.title
-            binding.tvPriceRed.text = result.getOrNull(0)?.price?.value.toString() + " ₽"
-            binding.tvTimesRed.text = result.getOrNull(0)?.timeRange?.joinToString()
+            // Extract data from the list and set to view elements
+            // Check for null values before accessing
+            result.getOrNull(0)?.let {
+                binding.tvNameOfAviacompanyRed.text = it.title
+                binding.tvPriceRed.text = "${it.price?.value} ₽" // Use string interpolation
+                binding.tvTimesRed.text = it.timeRange?.joinToString()
+            }
 
             binding.tvNameOfAviacompanyBlue.text = result.getOrNull(1)?.title
             binding.tvPriceBlue.text = result.getOrNull(1)?.price?.value.toString() + " ₽"

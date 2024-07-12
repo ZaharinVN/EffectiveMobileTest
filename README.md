@@ -17,6 +17,7 @@
 - Android SDK
 - MVVM
 - ViewBinding
+- Сoroutines
 - SharedPreferences
 - Bottom navigation
 - Fragments

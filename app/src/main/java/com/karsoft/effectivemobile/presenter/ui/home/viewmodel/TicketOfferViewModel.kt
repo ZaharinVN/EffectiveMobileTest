@@ -7,25 +7,30 @@ import com.karsoft.effectivemobile.domain.models.TicketOffer
 import com.karsoft.effectivemobile.domain.usecase.TicketOfferUseCase
 import com.karsoft.effectivemobile.presenter.models.TicketOfferUI
 import dagger.hilt.android.lifecycle.HiltViewModel
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.MutableSharedFlow
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
 class TicketOfferViewModel @Inject constructor(
-    private val useCase: TicketOfferUseCase,
-    private val mapper: Mapper<TicketOffer, TicketOfferUI>,
+    private val ticketOfferUseCase: TicketOfferUseCase,
+    private val ticketOfferMapper: Mapper<TicketOffer, TicketOfferUI>
 ) : ViewModel() {
 
-    private var _getTicketOffersResult = MutableSharedFlow<List<TicketOfferUI>>()
-    val getTicketOffersResult: Flow<List<TicketOfferUI>> get() = _getTicketOffersResult
+    private val _getTicketOffersResult = MutableStateFlow<List<TicketOfferUI>>(emptyList())
+    val getTicketOffersResult: StateFlow<List<TicketOfferUI>> = _getTicketOffersResult
+
+    init {
+        getTicketOffers()
+    }
+
     fun getTicketOffers() {
         viewModelScope.launch {
-            val listOfOffers = useCase.getTicketOffers().map {
-                mapper.mapFromEntity(it)
+            val ticketOffers = ticketOfferUseCase.getTicketOffers().map { ticketOffer ->
+                ticketOfferMapper.mapFromEntity(ticketOffer)
             }
-            _getTicketOffersResult.emit(listOfOffers)
+            _getTicketOffersResult.value = ticketOffers
         }
     }
 }

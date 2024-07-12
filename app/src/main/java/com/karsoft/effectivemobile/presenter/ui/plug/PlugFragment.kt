@@ -11,18 +11,11 @@ import dagger.hilt.android.AndroidEntryPoint
 @AndroidEntryPoint
 class PlugFragment : Fragment(R.layout.fragment_plug) {
 
-    private var _binding: FragmentPlugBinding? = null
-    private val binding get() = _binding!!
+    private val binding by lazy { FragmentPlugBinding.bind(requireView()) }
+    private val btnBack by lazy { binding.btnBack }
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        _binding = FragmentPlugBinding.bind(view)
-
-        binding.btnBack.setOnClickListener { findNavController().popBackStack() }
-
-    }
-
-    override fun onDestroyView() {
-        super.onDestroyView()
-        _binding = null
+        btnBack.setOnClickListener { findNavController().popBackStack() }
     }
 }

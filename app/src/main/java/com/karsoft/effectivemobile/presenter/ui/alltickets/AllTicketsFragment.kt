@@ -20,14 +20,9 @@ import javax.inject.Inject
 
 @AndroidEntryPoint
 class AllTicketsFragment : Fragment(R.layout.fragment_all_tickets) {
-
-    private var _binding: FragmentAllTicketsBinding? = null
-    private val binding get() = _binding!!
-
-    private val viewModel by viewModels<AllTicketsViewModel>()
-
-    private val navArgs by navArgs<AllTicketsFragmentArgs>()
-
+    private var binding: FragmentAllTicketsBinding? = null
+    private val viewModel: AllTicketsViewModel by viewModels()
+    private val navArgs: AllTicketsFragmentArgs by navArgs()
     private val adapter = AllTicketsAdapter()
 
     @Inject
@@ -35,48 +30,40 @@ class AllTicketsFragment : Fragment(R.layout.fragment_all_tickets) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
-        loadData()
-        setupViews(view)
+        binding = FragmentAllTicketsBinding.bind(view)
+        setupViews()
         setupListeners()
-        setupObservers()
-
+        observeTickets()
     }
 
-    private fun loadData() {
-        viewModel.getAllTickets()
-    }
-
-    private fun setupViews(view: View) {
-
-        _binding = FragmentAllTicketsBinding.bind(view)
-
-        binding.rvTickets.adapter = adapter
-
-        val formatter = SimpleDateFormat("dd MMMM", Locale("ru"))
-        val date = Date()
-        val currentDay = formatter.format(date)
-        binding.tvCurrentDate.text = currentDay + ", 1 пассажир"
-
-        binding.tvTowns.text = "${localStorage.lastInputCity}-${navArgs.arrivalTown}"
-
+    private fun setupViews() {
+        binding?.let { b ->
+            b.rvTickets.adapter = adapter
+            b.tvCurrentDate.text = getCurrentDateText()
+            b.tvTowns.text = "${localStorage.lastInputCity} - ${navArgs.arrivalTown}"
+        }
     }
 
     private fun setupListeners() {
-        binding.ivBack.setOnClickListener {
+        binding?.ivBack?.setOnClickListener {
             findNavController().popBackStack()
         }
     }
 
-    private fun setupObservers() {
+    private fun observeTickets() {
         viewModel.getAllTicketsResult.onEach { result ->
             adapter.submitList(result)
         }.launchIn(viewLifecycleOwner.lifecycleScope)
     }
 
-    override fun onDestroyView() {
-        super.onDestroyView()
-        _binding = null
+    private fun getCurrentDateText(): String {
+        val formatter = SimpleDateFormat("dd MMMM", Locale("ru"))
+        val date = Date()
+        return "${formatter.format(date)}, 1 пассажир"
     }
 
+    override fun onDestroyView() {
+        super.onDestroyView()
+        binding = null
+    }
 }

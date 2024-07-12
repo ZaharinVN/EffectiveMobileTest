@@ -30,10 +30,12 @@ class TicketUIMapper @Inject constructor() : Mapper<Ticket, TicketUI> {
             has_visa_transfer = has_visa_transfer,
             is_exchangable = is_exchangable,
             is_returnable = is_returnable,
-            luggage = LuggageUI(has_luggage = luggage.has_luggage, price = PriceUI(luggage.price.value)),
+            luggage = LuggageUI(
+                has_luggage = luggage.has_luggage,
+                price = PriceUI(luggage.price.value)
+            ),
             price = PriceUI(price.value),
             provider_name = provider_name
         )
     }
-
 }

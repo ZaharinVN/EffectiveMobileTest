@@ -21,28 +21,28 @@ import javax.inject.Provider;
     "KotlinInternalInJava"
 })
 public final class AllTicketsViewModel_Factory implements Factory<AllTicketsViewModel> {
-  private final Provider<TicketUseCase> useCaseProvider;
+  private final Provider<TicketUseCase> ticketUseCaseProvider;
 
-  private final Provider<Mapper<Ticket, TicketUI>> mapperProvider;
+  private final Provider<Mapper<Ticket, TicketUI>> ticketMapperProvider;
 
-  public AllTicketsViewModel_Factory(Provider<TicketUseCase> useCaseProvider,
-      Provider<Mapper<Ticket, TicketUI>> mapperProvider) {
-    this.useCaseProvider = useCaseProvider;
-    this.mapperProvider = mapperProvider;
+  public AllTicketsViewModel_Factory(Provider<TicketUseCase> ticketUseCaseProvider,
+      Provider<Mapper<Ticket, TicketUI>> ticketMapperProvider) {
+    this.ticketUseCaseProvider = ticketUseCaseProvider;
+    this.ticketMapperProvider = ticketMapperProvider;
   }
 
   @Override
   public AllTicketsViewModel get() {
-    return newInstance(useCaseProvider.get(), mapperProvider.get());
+    return newInstance(ticketUseCaseProvider.get(), ticketMapperProvider.get());
   }
 
-  public static AllTicketsViewModel_Factory create(Provider<TicketUseCase> useCaseProvider,
-      Provider<Mapper<Ticket, TicketUI>> mapperProvider) {
-    return new AllTicketsViewModel_Factory(useCaseProvider, mapperProvider);
+  public static AllTicketsViewModel_Factory create(Provider<TicketUseCase> ticketUseCaseProvider,
+      Provider<Mapper<Ticket, TicketUI>> ticketMapperProvider) {
+    return new AllTicketsViewModel_Factory(ticketUseCaseProvider, ticketMapperProvider);
   }
 
-  public static AllTicketsViewModel newInstance(TicketUseCase useCase,
-      Mapper<Ticket, TicketUI> mapper) {
-    return new AllTicketsViewModel(useCase, mapper);
+  public static AllTicketsViewModel newInstance(TicketUseCase ticketUseCase,
+      Mapper<Ticket, TicketUI> ticketMapper) {
+    return new AllTicketsViewModel(ticketUseCase, ticketMapper);
   }
 }

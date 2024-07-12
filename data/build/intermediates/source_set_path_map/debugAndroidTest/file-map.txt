@@ -1,0 +1,15 @@
+com.karsoft.effectivemobile.data.test.data-androidTest-0 D:\ANDROID.SAVE\EffectiveMobileTest\data\build\generated\res\resValues\androidTest\debug
+com.karsoft.effectivemobile.data.test.data-mergeDebugAndroidTestResources-1 D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.karsoft.effectivemobile.data.test.data-mergeDebugAndroidTestResources-2 D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.karsoft.effectivemobile.data.test.data-merged_res-3 D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\merged_res\debugAndroidTest
+com.karsoft.effectivemobile.data.test.data-packaged_res-4 D:\ANDROID.SAVE\EffectiveMobileTest\data\build\intermediates\packaged_res\debug
+com.karsoft.effectivemobile.data.test.data-lifecycle-viewmodel-savedstate-2.5.1-5 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\0754a1da543436915a026f6e5addb6ee\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.karsoft.effectivemobile.data.test.data-lifecycle-runtime-2.5.1-6 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\11afe085e9c8a041fa5d5530663d6e37\transformed\lifecycle-runtime-2.5.1\res
+com.karsoft.effectivemobile.data.test.data-lifecycle-viewmodel-2.5.1-7 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\18a83b6be0c226269da7846264fbb041\transformed\lifecycle-viewmodel-2.5.1\res
+com.karsoft.effectivemobile.data.test.data-core-1.5.0-8 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\19c55e824191035e0968cbcac7291086\transformed\core-1.5.0\res
+com.karsoft.effectivemobile.data.test.data-activity-1.5.1-9 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\6bb226f26f29ab21f645d9582a51d314\transformed\activity-1.5.1\res
+com.karsoft.effectivemobile.data.test.data-annotation-experimental-1.3.1-10 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\99f2aca1f6afc7d93d66da0d6b274b2d\transformed\annotation-experimental-1.3.1\res
+com.karsoft.effectivemobile.data.test.data-core-1.8.0-11 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\c1cbdd8b7b9baa8146ea0acdcda1521a\transformed\core-1.8.0\res
+com.karsoft.effectivemobile.data.test.data-fragment-1.5.1-12 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\d7334c1567f82ee9cc0358ca874594e8\transformed\fragment-1.5.1\res
+com.karsoft.effectivemobile.data.test.data-lifecycle-livedata-core-2.5.1-13 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\e904f63e65cb2803b6a0a096d40b1cc8\transformed\lifecycle-livedata-core-2.5.1\res
+com.karsoft.effectivemobile.data.test.data-savedstate-1.2.0-14 D:\ANDROID.SAVE\PlaylistMaker-MARGINA\caches\transforms-3\f5b0d9db49af0b070120f799455710d9\transformed\savedstate-1.2.0\res

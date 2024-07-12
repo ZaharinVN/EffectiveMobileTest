@@ -44,7 +44,7 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="@style/Title4"
                 android:textColor="@color/grey_6"
-                tools:text="23 февраля, 1 пассажир" />
+                tools:text="24 февраля, 1 пассажир" />
 
 
         </LinearLayout>

@@ -21,28 +21,29 @@ import javax.inject.Provider;
     "KotlinInternalInJava"
 })
 public final class TicketOfferViewModel_Factory implements Factory<TicketOfferViewModel> {
-  private final Provider<TicketOfferUseCase> useCaseProvider;
+  private final Provider<TicketOfferUseCase> ticketOfferUseCaseProvider;
 
-  private final Provider<Mapper<TicketOffer, TicketOfferUI>> mapperProvider;
+  private final Provider<Mapper<TicketOffer, TicketOfferUI>> ticketOfferMapperProvider;
 
-  public TicketOfferViewModel_Factory(Provider<TicketOfferUseCase> useCaseProvider,
-      Provider<Mapper<TicketOffer, TicketOfferUI>> mapperProvider) {
-    this.useCaseProvider = useCaseProvider;
-    this.mapperProvider = mapperProvider;
+  public TicketOfferViewModel_Factory(Provider<TicketOfferUseCase> ticketOfferUseCaseProvider,
+      Provider<Mapper<TicketOffer, TicketOfferUI>> ticketOfferMapperProvider) {
+    this.ticketOfferUseCaseProvider = ticketOfferUseCaseProvider;
+    this.ticketOfferMapperProvider = ticketOfferMapperProvider;
   }
 
   @Override
   public TicketOfferViewModel get() {
-    return newInstance(useCaseProvider.get(), mapperProvider.get());
+    return newInstance(ticketOfferUseCaseProvider.get(), ticketOfferMapperProvider.get());
   }
 
-  public static TicketOfferViewModel_Factory create(Provider<TicketOfferUseCase> useCaseProvider,
-      Provider<Mapper<TicketOffer, TicketOfferUI>> mapperProvider) {
-    return new TicketOfferViewModel_Factory(useCaseProvider, mapperProvider);
+  public static TicketOfferViewModel_Factory create(
+      Provider<TicketOfferUseCase> ticketOfferUseCaseProvider,
+      Provider<Mapper<TicketOffer, TicketOfferUI>> ticketOfferMapperProvider) {
+    return new TicketOfferViewModel_Factory(ticketOfferUseCaseProvider, ticketOfferMapperProvider);
   }
 
-  public static TicketOfferViewModel newInstance(TicketOfferUseCase useCase,
-      Mapper<TicketOffer, TicketOfferUI> mapper) {
-    return new TicketOfferViewModel(useCase, mapper);
+  public static TicketOfferViewModel newInstance(TicketOfferUseCase ticketOfferUseCase,
+      Mapper<TicketOffer, TicketOfferUI> ticketOfferMapper) {
+    return new TicketOfferViewModel(ticketOfferUseCase, ticketOfferMapper);
   }
 }

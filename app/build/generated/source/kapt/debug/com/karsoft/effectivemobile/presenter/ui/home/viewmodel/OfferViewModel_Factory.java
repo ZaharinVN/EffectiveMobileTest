@@ -21,27 +21,28 @@ import javax.inject.Provider;
     "KotlinInternalInJava"
 })
 public final class OfferViewModel_Factory implements Factory<OfferViewModel> {
-  private final Provider<OfferUseCase> useCaseProvider;
+  private final Provider<OfferUseCase> offerUseCaseProvider;
 
-  private final Provider<Mapper<Offer, OfferUI>> mapperProvider;
+  private final Provider<Mapper<Offer, OfferUI>> offerMapperProvider;
 
-  public OfferViewModel_Factory(Provider<OfferUseCase> useCaseProvider,
-      Provider<Mapper<Offer, OfferUI>> mapperProvider) {
-    this.useCaseProvider = useCaseProvider;
-    this.mapperProvider = mapperProvider;
+  public OfferViewModel_Factory(Provider<OfferUseCase> offerUseCaseProvider,
+      Provider<Mapper<Offer, OfferUI>> offerMapperProvider) {
+    this.offerUseCaseProvider = offerUseCaseProvider;
+    this.offerMapperProvider = offerMapperProvider;
   }
 
   @Override
   public OfferViewModel get() {
-    return newInstance(useCaseProvider.get(), mapperProvider.get());
+    return newInstance(offerUseCaseProvider.get(), offerMapperProvider.get());
   }
 
-  public static OfferViewModel_Factory create(Provider<OfferUseCase> useCaseProvider,
-      Provider<Mapper<Offer, OfferUI>> mapperProvider) {
-    return new OfferViewModel_Factory(useCaseProvider, mapperProvider);
+  public static OfferViewModel_Factory create(Provider<OfferUseCase> offerUseCaseProvider,
+      Provider<Mapper<Offer, OfferUI>> offerMapperProvider) {
+    return new OfferViewModel_Factory(offerUseCaseProvider, offerMapperProvider);
   }
 
-  public static OfferViewModel newInstance(OfferUseCase useCase, Mapper<Offer, OfferUI> mapper) {
-    return new OfferViewModel(useCase, mapper);
+  public static OfferViewModel newInstance(OfferUseCase offerUseCase,
+      Mapper<Offer, OfferUI> offerMapper) {
+    return new OfferViewModel(offerUseCase, offerMapper);
   }
 }
